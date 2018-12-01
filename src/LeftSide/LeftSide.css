@@ -1,0 +1,22 @@
+.lsb-content{
+    background-color: #fff;
+    border: 1px solid #eee;
+    width: 100%;
+  }
+  
+  .lsb-content ul li{
+    list-style-type: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px ;
+    line-height: 19px ;
+    margin-bottom: 10px;
+  
+  }
+  .lsb-content h2 {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 18px ;
+    line-height: 21px ;
+    font-weight: bold;
+    margin-left: 36px;
+  }
+  
